@@ -1,0 +1,8 @@
+{
+  "name": "panelExtensionBoilerPlate",
+  "description": "Panel Exnetsion Boiler Plate",
+  "author": "Nur Bar <nbfbce@ymail.com>",
+  "license": "MIT",
+  "type": "kirby-plugin"
+  "version": "1.0.0"
+}
