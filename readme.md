@@ -1,4 +1,4 @@
-# Kirby User Manager Panel Extention
+# Kirby Panel Extention Boilerplate
 
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg) ![Kirby Version](https://img.shields.io/badge/Kirby-2.3%2B-red.svg)
 
