@@ -48,6 +48,7 @@ This works out of the box.
 This is just to show the basics of how to extend the panel. There isn't much usage here.
 
 Some instructions though
+
 1) This adds route boilerplate to the panel (to access it you need to go to) yoursiteurl/panel/boilerplate
 
 2) Your controller should be extending ExtendedBaseController - it will point it the right places
